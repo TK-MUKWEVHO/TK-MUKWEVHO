@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tk-mukwevho&label=Profile%20views&color=0e75b6&style=flat" alt="tk-mukwevho" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tk-mukwevho" alt="tk-mukwevho" /></a> </p>
-
 - 🌱 I’m currently learning **Ionic**
 
 - 💬 Ask me about **Spring boot, Angular**
